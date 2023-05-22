@@ -1,2 +1,3 @@
 # MATLAB-SCM
-Exploring MATLAB Scm
+Exploring MATLAB SCM
+Making changes using a test branch
